@@ -34,9 +34,9 @@ _Temps estimé : 40 mins_
 
 * Importer dans Eclipse les projets `todolist-debut-ex1` et `todolist-debut-ex2`.
 
-Faire `File` -> `Import` -> `Projects from Git (with smart import)` -> `Clone URI` -> URI: `https://github.com/<x>/tp1-miage-2022.git` (conserver les autres options inchangées) -> 'Import projects from File System or Archives' : ne laisser cocher que `tp1-miage-2022/tolist-debut-ex1` et `tp1-miage-2022/tolist-debut-ex2` ('import as Maven') -> Bouton 'Finish'.
+Faire `File` -> `Import` -> `Projects from Git (with smart import)` -> `Clone URI` -> URI: `https://github.com/<x>/tp-miage-2023.git` (conserver les autres options inchangées) -> 'Import projects from File System or Archives' : ne laisser cocher que `tp-miage-2023/tolist-debut-ex1` et `tp-miage-2023/tolist-debut-ex2` ('import as Maven') -> Bouton 'Finish'.
 
-TIP: [Rappel Git] Trois dépôts sont ici utilisés: le dépot Github de l'enseignant (`bflorat/tp1-miage-2021`), le dépot Github du binôme (`<x>/tp1-miage-2021`), le dépot local sur le portable de l'un ou des deux étudiants du binôme.
+TIP: [Rappel Git] Trois dépôts sont ici utilisés: le dépot Github de l'enseignant (`bflorat/tp-miage-2023`), le dépot Github du binôme (`<x>/tp-miage-2023`), le dépot local sur le portable de l'un ou des deux étudiants du binôme.
 
 * Observer le code du projet `todolist-debut-ex1`
 
