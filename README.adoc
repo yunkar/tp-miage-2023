@@ -1,7 +1,5 @@
 # TP MIAGE conception logicielle
 
-NOTE: TP de trois slots de 1h20
-
 ## Nom du(des) étudiant(e)(s) de ce monôme/binôme 
 WARNING: NE PAS OUBLIER DE MENTIONNER LES DEUX NOMS SI VOUS ETES EN BINOME!
 
@@ -15,7 +13,7 @@ Commentaires éventuels des étudiants : #XXXXXX#
 * Disposer d'une version recente de VirtualBox ;
 * Disposer d'un compte Github par personne (ou un pour deux personnes si vous êtes en binôme) et avoir https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token[créé un access token] avec le droit `repo`;
 * Si pas déjà fait, activer les fonctions de virtualisation CPU dans votre BIOS/UEFI (option `AMD-V` ou `Intel VT` en général) sinon votre VM sera extrêmement lente et inutilisable.
-* Télécharger et décompresser l'image VirtualBox de l'environnement de développement https://public.florat.net/cours_miage/vm-tp-miage.zip[ici] (à faire *avant le TP*). Le login/mot de passe est : `tp`/`tp`.
+* Télécharger, décompresser et *tester* l'image VirtualBox de l'environnement de développement https://public.florat.net/cours_miage/vm-tp-miage.zip[ici] (à faire *avant le TP*). Le login/mot de passe est : `tp`/`tp`.
 
 ## Déroulement du TP
 
