@@ -108,6 +108,8 @@ Source : http://leanpub.com/get-your-hands-dirty-on-clean-architecture[Tom Hombe
 
 *Rappeler en quelques lignes les grands principes de l'architecture hexagonale.*
 
+C'est le fait d'avoir un système à base de composants d'application qui sont faiblement couplés et qui peuvent être facilement connectés à leur environnement logiciel au moyen de ports et d'adaptateurs. Cela permet d'sioler les aspects techniques et fonctionnels et respecte le DIP (inversion de dépendance).
+
 Compléter ce code avec une fonctionnalité de création de `TodoItem`  persisté en base et appelé depuis un endpoint REST `POST /todos` qui :
 
 * prend un `TodoItem` au format JSON dans le body (voir exemple de contenu plus haut);
