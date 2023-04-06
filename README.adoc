@@ -126,6 +126,11 @@ _Temps estimé : 20 mins_
 
 *Quels types de tests devra-t-on écrire pour les adapteurs ?* 
 
+Des tests unitaires permettant de vérifier le comportement attendu des composants des adaptateurs.
+Des tests d'intégration permettant de vérifier la capacité de l'adaptateur à interagir avec les autres parties du système.
+Des tests de performance permettant de mesurer les performances de l'adaptateur dans des conditions de charge élevée.
+Des tests de sécurité permettant de vérifier que l'adaptateur est sécurisé contre des types d'attaques classique.
+
 *S'il vous reste du temps, écrire quelques uns de ces types de test.*
 
 [TIP]
